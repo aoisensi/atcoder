@@ -1,0 +1,12 @@
+# Created by http://www.gitignore.io
+
+#!! ERROR: c   is undefined. Use list command to see defined gitignore types !!#
+
+### vim ###
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
